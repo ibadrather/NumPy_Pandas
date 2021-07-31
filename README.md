@@ -5,3 +5,5 @@ I used the following YT video tutotials:
 https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 https://www.youtube.com/watch?v=vmEHCJofslg
+
+https://github.com/KeithGalli/pandas
